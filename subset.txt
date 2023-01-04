@@ -1,0 +1,51 @@
+"""
+Subset supported:
+
+Attrib:
+- x
+- y
+- width
+- height
+- cy
+- cx
+- r
+- rx
+- ry
+- points
+- d
+- x1
+- x2
+- y1
+- y2
+- offset
+- stop-color
+- fx
+- fy
+- stop-opacity
+
+Style:
+- font-size
+- stroke
+- stroke-width
+- opacity
+- fill
+- fill-opacity
+- stroke-opacity
+
+Transf:
+- Translation
+- Rotation
+- skewX
+- skewY
+- scale
+- matrix
+
+Filters:
+- feGaussianBlur (stdDeviation)
+- feOffset (dx, dy)
+- feSpecularLighting (surfaceScale, specularConstant, specularExponent, lighting-color)
+- fePointLight (x, y, z)
+
+- LinearGradient
+- RadialGradient
+"""

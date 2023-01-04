@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://www.inkscape.org/namespaces/inkscape" xmlns:ns2="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns3="http://www.w3.org/1999/xlink" xmlns:ns5="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="210mm" height="297mm" viewBox="0 0 210 297" version="1.1" id="svg8" ns1:version="1.0.2 (1.0.2+r75+1)" ns2:docname="drawingb.svg">
+  <defs id="defs2">
+    <rect x="4.4360236" y="121.29563" width="48.867127499999995" height="19.574384000000002" id="rect878" rx="0.0" ry="0.0" transform="translate(0.0, 0.0) rotate(0.0, 0.0, 0.0) skewX(0.0) skewY(0.0) scale(1.0, 1.0) matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" />
+    <linearGradient ns1:collect="always" id="linearGradient872">
+      <stop style="stop-color:#c8ab37;stop-opacity:1" offset="0" id="stop868" />
+      <stop style="stop-color:#0000ff;stop-opacity:0;" offset="1" id="stop870" />
+    </linearGradient>
+    <linearGradient ns1:collect="always" id="linearGradient862">
+      <stop style="stop-color:#800000;stop-opacity:1" offset="0" id="stop858" />
+      <stop style="stop-color:#ff0000;stop-opacity:0" offset="1" id="stop860" />
+    </linearGradient>
+    <rect x="11.941714" y="174.08706" width="118.2038" height="72.916931" id="rect849" rx="0.0" ry="0.0" transform="translate(0.0, 0.0) rotate(0.0, 0.0, 0.0) skewX(0.0) skewY(0.0) scale(1.0, 1.0) matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" />
+    <linearGradient ns1:collect="always" ns3:href="#linearGradient862" id="linearGradient864" x1="12.8563491" y1="78.405033" x2="24.090355" y2="77.5762785" gradientUnits="userSpaceOnUse" gradientTransform="translate(0.0, 0.0) rotate(0.0, 0.0, 0.0) skewX(0.0) skewY(0.0) scale(1.0, 1.0) matrix(2.39116345, -6.8286435e-09, 0.0, 2.42149765, -49.4267394, -0.045715999999999646)"><stop offset="0.0" stop-color="#800000" stop-opacity="1.0" /><stop offset="1.0" stop-color="#ff0000" stop-opacity="0.0" /></linearGradient>
+    <radialGradient ns1:collect="always" ns3:href="#linearGradient872" id="radialGradient874" cx="18.026477" cy="104.06142" fx="18.026477" fy="104.06142" r="12.605292" gradientTransform="translate(0.0, 0.0) rotate(0.0, 0.0, 0.0) skewX(0.0) skewY(0.0) scale(1.0, 1.0) matrix(1.50597284, 0.0, 0.0, 1.61697935, 77.24496815, 39.485234000000005)" gradientUnits="userSpaceOnUse" fr="0.0"><stop offset="0.0" stop-color="#e3551b" stop-opacity="1.0" /><stop offset="1.0" stop-color="#0000ff" stop-opacity="0.0" /></radialGradient>
+  <filter id="filter1222" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="1.1375437" /></filter><filter id="filter8907" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="1.93389175" /></filter></defs>
+  <ns2:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" ns1:pageopacity="0.0" ns1:pageshadow="2" ns1:zoom="0.42960586" ns1:cx="572.58474" ns1:cy="393.02258" ns1:document-units="mm" ns1:current-layer="layer1" ns1:document-rotation="0" showgrid="false" ns1:window-width="1920" ns1:window-height="1007" ns1:window-x="0" ns1:window-y="0" ns1:window-maximized="1" />
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <ns5:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </ns5:Work>
+    </rdf:RDF>
+  </metadata>
+  <g ns1:label="Layer 1" ns1:groupmode="layer" id="layer1">
+    <ellipse style="fill:#007f7f;stroke-width:3.5052700000000003;stroke-linecap:round;stroke-linejoin:bevel" id="one" cx="99.7004995" cy="27.764513" r="24.925264" rx="29.770374999999998" ry="20.940112" fill-opacity="1.0" filter="url(#filter8907)" transform="translate(0.0, 0.0) rotate(0.0, 0.0, 0.0) skewX(0.0) skewY(0.0) scale(1.0, 1.0) matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" />
+    <rect style="fill:#007f7f;stroke-width:3.66179;stroke-linecap:round;stroke-linejoin:bevel" id="two" width="42.731323" height="51.419455" x="46.35139875" y="94.947798" rx="0.0" ry="8.3460915" fill-opacity="1.0" transform="translate(0.0, 0.0) rotate(-14.9385335, 0.0, 0.0) skewX(0.0) skewY(0.0) scale(1.0, 1.0) matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" />
+    <ellipse style="fill:url(#linearGradient864);fill-opacity:1;stroke-width:4.0063949999999995;stroke-linecap:round;stroke-linejoin:bevel" id="three" cx="-7.094531999999999" cy="187.59044" r="22.679239" rx="25.397817500000002" ry="25.7200135" filter="url(#filter1222)" transform="translate(0.0, 0.0) rotate(0.0, 0.0, 0.0) skewX(0.0) skewY(0.0) scale(1.0, 1.0) matrix(0.768028155, -0.422091115, 0.433279145, 0.74953794, 0.0, 0.0)" />
+    <rect style="fill:url(#radialGradient874);fill-opacity:1;stroke-width:2.797105;stroke-linecap:round;stroke-linejoin:bevel" id="four" width="37.9664585" height="40.7649945" x="85.40912544999999" y="187.367905" rx="0.0" ry="0.0" transform="translate(0.0, 0.0) rotate(0.0, 0.0, 0.0) skewX(0.0) skewY(0.0) scale(1.0, 1.0) matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" />
+    <text xml:space="preserve" id="five" style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect878);fill:#7f007f;fill-opacity:1.0;stroke:none;" transform="translate(0.0, 0.0) rotate(0.0, 0.0, 0.0) skewX(0.0) skewY(0.0) scale(1.0, 1.0) matrix(1.4908655999999998, -0.25472319, 0.25472319, 1.4908655999999998, 60.1922605, 82.85041499999997)" x="0.0">hello      </text>
+  </g>
+</svg>
